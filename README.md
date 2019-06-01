@@ -12,7 +12,3 @@ I used this course to learn the basics of React. It was created using create-rea
 - use object destructuring
 - use idiomatic JSX syntax
 - use API data to populate components
-
-
-git push --set-upstream origin master
-git remote add origin git@github.com:JoshTeperman/robotfriends.git
