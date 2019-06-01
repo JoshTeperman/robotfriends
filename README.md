@@ -15,3 +15,4 @@ I used this course to learn the basics of React. It was created using create-rea
 
 
 git push --set-upstream origin master
+git remote add origin git@github.com:JoshTeperman/robotfriends.git
